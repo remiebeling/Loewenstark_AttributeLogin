@@ -3,7 +3,7 @@
   "license": "GPL-3.0",
   "type": "magento-module",
   "description": "Login with any customerattribute",
-  "homepage": "https://github.com/remiebeling/MageProfis_HeaderContact",
+  "homepage": "https://github.com/remiebeling/Loewenstark_AttributeLogin",
   "require": {
     "php": ">=5.3"
   },
@@ -13,7 +13,7 @@
   "authors": [
     {
       "name": "Remi Ebeling",
-      "email": "remi@mage-profis.de",
+      "email": "r.ebeling@loewenstark.com",
       "role": "Author/Maintainer"
     }
   ]
